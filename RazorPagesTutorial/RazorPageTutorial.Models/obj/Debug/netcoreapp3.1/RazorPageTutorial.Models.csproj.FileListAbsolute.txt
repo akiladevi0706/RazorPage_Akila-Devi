@@ -1,0 +1,10 @@
+D:\anbarasu.shanmugam\Samples\net core\RazorPageTutorial.Models\bin\Debug\netcoreapp3.1\RazorPageTutorial.Models.deps.json
+D:\anbarasu.shanmugam\Samples\net core\RazorPageTutorial.Models\bin\Debug\netcoreapp3.1\RazorPageTutorial.Models.dll
+D:\anbarasu.shanmugam\Samples\net core\RazorPageTutorial.Models\bin\Debug\netcoreapp3.1\RazorPageTutorial.Models.pdb
+D:\anbarasu.shanmugam\Samples\net core\RazorPageTutorial.Models\obj\Debug\netcoreapp3.1\RazorPageTutorial.Models.csproj.AssemblyReference.cache
+D:\anbarasu.shanmugam\Samples\net core\RazorPageTutorial.Models\obj\Debug\netcoreapp3.1\RazorPageTutorial.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\anbarasu.shanmugam\Samples\net core\RazorPageTutorial.Models\obj\Debug\netcoreapp3.1\RazorPageTutorial.Models.AssemblyInfoInputs.cache
+D:\anbarasu.shanmugam\Samples\net core\RazorPageTutorial.Models\obj\Debug\netcoreapp3.1\RazorPageTutorial.Models.AssemblyInfo.cs
+D:\anbarasu.shanmugam\Samples\net core\RazorPageTutorial.Models\obj\Debug\netcoreapp3.1\RazorPageTutorial.Models.csproj.CoreCompileInputs.cache
+D:\anbarasu.shanmugam\Samples\net core\RazorPageTutorial.Models\obj\Debug\netcoreapp3.1\RazorPageTutorial.Models.dll
+D:\anbarasu.shanmugam\Samples\net core\RazorPageTutorial.Models\obj\Debug\netcoreapp3.1\RazorPageTutorial.Models.pdb

@@ -1,0 +1,13 @@
+D:\anbarasu.shanmugam\Samples\net core\RazorPagesTutorial.Services\bin\Debug\netcoreapp3.1\RazorPagesTutorial.Services.deps.json
+D:\anbarasu.shanmugam\Samples\net core\RazorPagesTutorial.Services\bin\Debug\netcoreapp3.1\RazorPagesTutorial.Services.dll
+D:\anbarasu.shanmugam\Samples\net core\RazorPagesTutorial.Services\bin\Debug\netcoreapp3.1\RazorPagesTutorial.Services.pdb
+D:\anbarasu.shanmugam\Samples\net core\RazorPagesTutorial.Services\bin\Debug\netcoreapp3.1\RazorPageTutorial.Models.dll
+D:\anbarasu.shanmugam\Samples\net core\RazorPagesTutorial.Services\bin\Debug\netcoreapp3.1\RazorPageTutorial.Models.pdb
+D:\anbarasu.shanmugam\Samples\net core\RazorPagesTutorial.Services\obj\Debug\netcoreapp3.1\RazorPagesTutorial.Services.csproj.AssemblyReference.cache
+D:\anbarasu.shanmugam\Samples\net core\RazorPagesTutorial.Services\obj\Debug\netcoreapp3.1\RazorPagesTutorial.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\anbarasu.shanmugam\Samples\net core\RazorPagesTutorial.Services\obj\Debug\netcoreapp3.1\RazorPagesTutorial.Services.AssemblyInfoInputs.cache
+D:\anbarasu.shanmugam\Samples\net core\RazorPagesTutorial.Services\obj\Debug\netcoreapp3.1\RazorPagesTutorial.Services.AssemblyInfo.cs
+D:\anbarasu.shanmugam\Samples\net core\RazorPagesTutorial.Services\obj\Debug\netcoreapp3.1\RazorPagesTutorial.Services.csproj.CoreCompileInputs.cache
+D:\anbarasu.shanmugam\Samples\net core\RazorPagesTutorial.Services\obj\Debug\netcoreapp3.1\RazorPagesTutorial.Services.csproj.CopyComplete
+D:\anbarasu.shanmugam\Samples\net core\RazorPagesTutorial.Services\obj\Debug\netcoreapp3.1\RazorPagesTutorial.Services.dll
+D:\anbarasu.shanmugam\Samples\net core\RazorPagesTutorial.Services\obj\Debug\netcoreapp3.1\RazorPagesTutorial.Services.pdb
